@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: http://johnny-choi-portfolio/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Johnny Choi
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -8,20 +8,20 @@ params:
   banner:
     buttonText: Get Started
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+#      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+#      AND RELEASED UNDER THE CREATIVE COMMONS.
+    title: Hi, my name is Johnny Choi. Welcome to my portfolio website. Enjoy!
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
+      - city: London
+        country: UK
         street: Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: jchoi.mfa2022@london.edu
         title: Email
     enable: yes
     phone:
@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com
   image: ''
-  name: Your name
+  name: Johnny Choi
   navigation:
     button1:
       - name: Get Started
@@ -71,10 +71,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
